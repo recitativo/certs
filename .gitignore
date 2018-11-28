@@ -1,0 +1,7 @@
+*.old
+*.crt
+*.key
+*.csr
+*.pem
+*.keystore
+*.pkcs12
